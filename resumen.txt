@@ -1,0 +1,5 @@
+Índice invertido en 'C:\Users\Cris\Desktop\Proyectos\big data\New folder\out_index'
+Docs (bloques de 400000 líneas): 549
+Postings                        : 548,451
+Shards                          : 1
+Tiempo total                    : 1891.42s(31min)
